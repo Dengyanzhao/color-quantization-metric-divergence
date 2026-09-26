@@ -1,0 +1,13 @@
+﻿dataset,metric,S_star,relation,win_rgb,win_xyz,win_luv,win_at_S_star
+CQ100,vifp,rgb,approx,82.5,17.25,0.25,82.5
+CQ100,psnr,rgb,identity,99.75,0.0,0.25,99.75
+CQ100,ssim,rgb,approx,95.25,4.5,0.25,95.25
+CQ100,dE00,luv,approx,26.75,1.25,72.0,72.0
+CQ100,lpips_alex,rgb,approx,85.0,7.25,7.75,85.0
+CQ100,lpips_vgg,rgb,approx,71.0,19.25,9.75,71.0
+Kodak,vifp,rgb,approx,81.25,18.75,0.0,81.25
+Kodak,psnr,rgb,identity,98.95833333333334,1.0416666666666665,0.0,98.95833333333334
+Kodak,ssim,rgb,approx,89.58333333333334,10.416666666666666,0.0,89.58333333333334
+Kodak,dE00,luv,approx,16.666666666666664,0.0,83.33333333333334,83.33333333333334
+Kodak,lpips_alex,rgb,approx,91.66666666666666,4.166666666666666,4.166666666666666,91.66666666666666
+Kodak,lpips_vgg,rgb,approx,78.125,18.75,3.125,78.125
